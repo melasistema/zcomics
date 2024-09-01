@@ -6,11 +6,11 @@ Z-Comics
 
 <table style="border:none">
   <tr style="border: none!important;">
-    <td style="border: none!important;"><a href="https://zcomics.it"><img src="screenshots/01-zcomics.jpg" alt="ZComics"></a></td>
-    <td style="border: none!important;"><a href="https://zcomics.it"><img src="screenshots/02-zcomics.jpg" alt="ZComics"></a></td>
-    <td style="border: none!important;"><a href="https://zcomics.it"><img src="screenshots/03-zcomics.jpg" alt="ZComics"></a></td>
-    <td style="border: none!important;"><a href="https://zcomics.it"><img src="screenshots/04-zcomics.jpg" alt="icon"></a></td>
+    <td style="border: none!important;"><a href="https://zcomics.it" target="_blank"><img src="screenshots/01-zcomics.jpg" alt="ZComics"></a></td>
+    <td style="border: none!important;"><a href="https://zcomics.it" target="_blank"><img src="screenshots/02-zcomics.jpg" alt="ZComics"></a></td>
+    <td style="border: none!important;"><a href="https://zcomics.it" target="_blank"><img src="screenshots/03-zcomics.jpg" alt="ZComics"></a></td>
+    <td style="border: none!important;"><a href="https://zcomics.it" target="_blank"><img src="screenshots/04-zcomics.jpg" alt="icon"></a></td>
   </tr>
 </table>
 
-![Z-Comics - dove l'arte diventa un viaggio quantistico nell'anima.](screenshots/05-zcomics.jpg)
+<a href="https://zcomics.it" target="_blank">![Z-Comics - dove l'arte diventa un viaggio quantistico nell'anima.](screenshots/05-zcomics.jpg)</a>
